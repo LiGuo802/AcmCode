@@ -2,3 +2,6 @@
 *.exe
 default.workspace
 default.workspace.layout
+bin/
+obj/
+*.cbp
