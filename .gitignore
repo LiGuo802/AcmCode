@@ -5,3 +5,4 @@ default.workspace.layout
 bin/
 obj/
 *.cbp
+*.class
